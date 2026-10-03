@@ -1,0 +1,14 @@
+[gd_scene format=3 uid="uid://cs81r8efab4xv"]
+
+[ext_resource type="Script" uid="uid://vuslcs6dwhh0" path="res://mods/framework/mod_settings_menu.gd" id="1_y7daj"]
+
+[node name="Mod Settings Menu" type="MarginContainer" unique_id=1820237651]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_y7daj")
+
+[node name="Mod list" type="VBoxContainer" parent="." unique_id=483770724]
+layout_mode = 2

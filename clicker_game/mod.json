@@ -1,0 +1,16 @@
+{
+	"id": "clicker_game",
+	"assets_only": false,
+	"packs": [
+		{
+			"path": "clicker_game.pck",
+		},
+	],
+	"overrides": [
+		{
+			"path": "overrides",
+			"priority": 99,
+			"phase": "late",
+		},
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"id": "pronoun_pirates",
+	"packs":[
+        {
+            "path":"pronoun_pirates.pck",
+            "override":true
+        }
+    ],
+    "assets_only":true
+}

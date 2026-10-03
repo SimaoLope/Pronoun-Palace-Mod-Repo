@@ -1,0 +1,9 @@
+{
+	"id": "one_two_five_four_spells",
+	"packs":[
+		{
+			"path":"one_two_five_four_spells.pck",
+			"override":true
+		}
+	]
+}

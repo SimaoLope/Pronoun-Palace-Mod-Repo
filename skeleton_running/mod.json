@@ -1,0 +1,16 @@
+{
+	"id": "skeleton_running",
+	"assets_only": false,
+	"packs": [
+		{
+			"path": "skeleton_running.pck",
+		},
+	],
+	"overrides": [
+		{
+			"path": "overrides",
+			"priority": 99,
+			"phase": "late",
+		},
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"id": "co-op",
+	"packs":[
+		{
+			"path":"mod.pck",
+			"override":true
+		}
+	],
+	"overrides":[
+		{
+			"path":"overrides",
+			"phase":"early",
+			"priority":0
+		},
+		{
+			"path":"overrides_early",
+			"phase":"early",
+			"priority":1
+		}
+	],
+	"author":"Xanderath",
+	"version":"1.3-beta 1"
+}
